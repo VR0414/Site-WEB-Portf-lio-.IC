@@ -4,14 +4,14 @@ Este é o meu site de portfólio pessoal, desenvolvido com HTML, CSS e JavaScrip
 
 ## Sobre Mim - Vitor Gadelha
 
-Sou estudante de Ciência da Computação na CESAR School, com grande entusiasmo por tecnologia, desenvolvimento de software e inovação. Tenho paixão por resolver problemas com código, aprender continuamente e liderar equipes rumo a resultados criativos e eficientes.
+Sou estudante de Ciência da Computação na CESAR School, com grande entusiasmo por tecnologia, desenvolvimento de software e inovação. Tenho paixão por resolver problemas com código, aprender continuamente e liderar equipes rumo a resultados criativos e eficientes.Crio este mini Site web para a cadeira de introdução a computação, do professor Erick Simões, 1º periodo.
 
 ## Estrutura
 
 - `index.html`: Página inicial
 - `sobre.html`: Informações sobre mim
 - `projetos.html`: Meus projetos
-- `css/style.css`: Estilos gerais
+- `css/style.css`: Estilos gerais (cores, etc)
 - `js/script.js`: Script de animação ao rolar
 
 ## Funcionalidades
@@ -28,6 +28,6 @@ Sou estudante de Ciência da Computação na CESAR School, com grande entusiasmo
 
 ## Validação W3C
 
-Todo o código foi testado com o [W3C Markup Validation Service](https://validator.w3.org/).
+Todo o código foi testado com o [W3C Markup Validation Service](https://validator.w3.org/) ; critério de avaliação exigido pelo professor.
 
 ---
